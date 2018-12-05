@@ -1,1 +1,1 @@
-# click-and-drag
+# click and drag
